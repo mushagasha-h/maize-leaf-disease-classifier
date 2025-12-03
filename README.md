@@ -58,3 +58,9 @@ numpy
 scikit-learn
 matplotlib
 pillow
+```
+
+## 🌐Gradio Web App
+
+Try the maize disease classifier online using the [Gradio demo](https://huggingface.co/spaces/HondiMush/MulimoCare)
+you can use the images in the sample images folder
